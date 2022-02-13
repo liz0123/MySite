@@ -1,0 +1,20 @@
+
+.header{
+    background: rgba(22, 22, 22, 0.9);
+}
+.about-wrapper{
+    padding: 60px 0px 60px;
+    justify-content: center;
+}
+.about{
+    align-items: center;
+}
+.img-thumbnail{
+    border-radius: 50%;
+    width: 400px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
